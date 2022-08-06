@@ -7,4 +7,7 @@ Since my profession was a high school teacher, and was always doing exams analys
 So, I tried to emulate the system that I was using at school.<br>
 I did so much and during this period I learnt alot.<br>
 Thought he system may not work perfectly, I believe it achieved it's purpose in me.<br>
+
+This is a pure Python Project.
+PyQt helped in designing the GUI<br>
 Thank you.
